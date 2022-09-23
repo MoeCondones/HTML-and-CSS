@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+.nav_links {
+    margin: 2%;
+    padding: 0%;
+    display: flex;
+}
+
+.nav_links li {
+    list-style: none;
+}
+
+.nav_links li a {
+    text-decoration: none;
+    color: #696969;
+}
+
+.nav_contact {
+    margin: 1360px;
+}
+
+.nav_contact:hover {
+    background-color: #cd3f25;
+}
