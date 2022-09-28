@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 1%;
+    font-size: .8125em;
+    line-height: 1.1rem;
+    margin: 1%;
+}
+
+.vid-container{
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
