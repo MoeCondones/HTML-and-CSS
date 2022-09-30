@@ -19,13 +19,22 @@ a {
     max-width: 530px;
     max-height: 840px;
     float: right;
-    transform: translateY(-10px);
+    transform: translateY(-8px);
 }
 
-p {
+.text {
     margin: 2%;
-    color: white;
-    max-width: 900px;
-    font-size: 15px;
+    margin-top: 1%;
+}
 
+.text p {
+    letter-spacing: .50px;
+    line-height: 15px;
+    color: white;
+    max-width: 950px;
+    font-size: 14px;
+}
+
+.line {
+    text-decoration: .50px line-through ;
 }

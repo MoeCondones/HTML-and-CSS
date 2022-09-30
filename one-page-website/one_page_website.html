@@ -5,48 +5,66 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Basquiat</title>
-    <link rel="icon" href="img/yellow.png" type="image/icon" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/yellow.png" />
     <link rel="stylesheet" href="/CSS/one_page.css" />
   </head>
   <body>
     <!--Header-->
     <section>
       <div class="head">
-        <a href="https://www.artsy.net/artist/jean-michel-basquiat">Buy</a>
-        <a class="contact" href="/contact.html">Contact</a>
+        <a
+          href="https://www.artsy.net/artist/jean-michel-basquiat"
+          class="head-link"
+          >Buy</a
+        >
+        <a href="/contact.html" class="head-link">Contact</a>
       </div>
     </section>
     <!--End Header-->
 
     <!--Site layout-->
-    <section class="container">
-      <div class="gray-fld">
-        <a href="/art.html"
-          ><img src="/img/gray.png" alt="image of a gray folder"
-        /></a>
-      </div>
-      <div class="yellow-fld">
-        <a href="/biography.html"
-          ><img src="/img/yellow.png" alt="image of a gray folder"
-        /></a>
-      </div>
-      <div class="photo-container">
-        <div class="jean">
-          <img
-            class="jean"
-            src="/img/jean.png"
-            alt="image of jean-michel-basquiat"
-            width="130"
-            height="169"
+    <div class="container">
+      <div class="render">
+        <a href="/vid.html" class="gray-fld"
+          ><img
+            src="/img/gray.png"
+            alt="image of a painting"
+            width="64"
+            height="64"
           />
-        </div>
+          <span class="text">Video</span>
+        </a>
+        <a href="/biography.html" class="yellow-fld"
+          ><img
+            src="/img/yellow.png"
+            alt="image of a painting"
+            width="64"
+            height="64"
+          />
+          <span class="text">Biography</span>
+        </a>
+        <a href="/art.html" class="black-fld"
+          ><img
+            src="/img/black.png"
+            alt="image of a painting"
+            width="64"
+            height="64"
+          />
+          <span class="text">Art</span>
+        </a>
       </div>
-      <div class="black-fld">
-        <a href="/vid.html"
-          ><img src="/img/black.png" alt="image of a black folder"
-        /></a>
-      </div>
-    </section>
+      <img
+        src="/img/jean.png"
+        alt="image of a painting"
+        width="130"
+        height="169"
+        class="jean"
+      />
+    </div>
     <!--End Site Layout-->
+
+    <!--footer-->
+    <footer>&copy; 2022</footer>
+    <!--End footer-->
   </body>
 </html>
