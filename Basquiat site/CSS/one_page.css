@@ -78,8 +78,12 @@ footer {
 }
 
 .row > .column {
-    padding: 0 8px;
+    padding: 10 5px;
   }
+
+.row img{
+  max-width: 500px;
+}
   
   .row:after {
     content: "";
