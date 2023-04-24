@@ -283,6 +283,10 @@ section {
     padding: 30px 39px;
 }
 
+.rsvp-text {
+    text-align: center;    
+}
+
 .terms {
     margin: 23px 41px 0 0;
     font-size: 14px;
@@ -334,3 +338,4 @@ section {
     padding: 20px 50px 20px 50px;
     text-align: right;
 }
+
