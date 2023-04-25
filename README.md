@@ -21,7 +21,7 @@
 - 🖥 &nbsp; Photoshop 
 
 
-<h1> Space Station site: </h1>
+<h1> Space Station site </h1>
 
 
 -This page is an example home page for a Space travel company. It's styled using CSS and contains
