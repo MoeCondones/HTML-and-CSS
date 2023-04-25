@@ -23,15 +23,18 @@
 
 <h1> Space Station site: </h1>
 
+
 -This page is an example home page for a Space travel company. It's styled using CSS and contains
 a navbar, image containers, and a form.
 
 <h1> Movie Theater site: </h1>
 
+
 -This page is an example home page for a Space travel company. It's styled using CSS and contains
 a navbar, image containers, and a form.
 
 <h1> Basquiat site: </h1>
+
 
 -This page is an example of a Museum/Biography of the artist Basquiat. It's styled using CSS and contains
 subpages, links, image containers, and a form.
