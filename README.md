@@ -23,7 +23,7 @@
 
 <h1> HTML-and-CSS </h1>
 
-- <h5>Basquiat Site</h5>: This page is an example of a Museum/Biography of the artist Basquiat. It's styled using CSS and contains
+- Basquiat Site: This page is an example of a Museum/Biography of the artist Basquiat. It's styled using CSS and contains
 subpages, links, image containers, and a form.
 - Cinema Site: This is a cinema site created using BootStrap
 - SpaceThis page is an example home page for a Space travel company. It's styled using CSS and contains
